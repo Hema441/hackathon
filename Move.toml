@@ -1,0 +1,16 @@
+[package]
+name = "AVCNVehicle"
+version = "1.0.0"
+authors = []
+
+[addresses]
+Vehicle_Co="3b1f7f04d031cc267ab57353dade4dbd982f2f483e58eec28864db9b6a62fc5e"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
