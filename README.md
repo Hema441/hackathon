@@ -70,8 +70,9 @@ Our vision is to create a fully autonomous, transparent, and efficient vehicle c
 - Connection with electric vehicle charging networks
 - Carbon footprint tracking and offset mechanisms
 ## Contract Details
-0x6b0a5de7ff2c58c3770e9b730cd37c51b848210e29dded200d5f113189d7620d
-![alt text](image.png)
+0xfffc52bf53a47daf780e6e22ee05cb46f1e43d719fc61b299df57440b874dca6
+![alt text](image-1.png)
+
 
 
 
