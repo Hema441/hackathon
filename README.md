@@ -73,3 +73,8 @@ Our vision is to create a fully autonomous, transparent, and efficient vehicle c
 0x6b0a5de7ff2c58c3770e9b730cd37c51b848210e29dded200d5f113189d7620d
 ![alt text](image.png)
 
+sed risk assessment for insurance
+
+### Phase 4: Ecosystem Integration
+- Integration with
+
